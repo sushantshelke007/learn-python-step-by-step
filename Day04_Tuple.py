@@ -1,4 +1,4 @@
-# tuple is imutable
+# tuple is immutable
 #let's create the tuple
 
 tup=(1,2,3,4,5,"mona","rock")  # we can store diff-diff datatypes in tuple like list
